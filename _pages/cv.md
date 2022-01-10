@@ -15,7 +15,8 @@ Education
   * MS in Computer Vision (MSCV), Aug 2021 - Dec 2022 (expected)
   * Courses :
     * Ongoing : Introduction to Computer Vision, Introduction to Machine Learning,Statistical Techniques in Robotics
-    * Capstone Project : 
+    * Capstone Project :
+      * Platform Pittsburgh: Smart City Research testbed in collaboration with the City of Pittsburgh, with the goal to create a ”living laboratory” for conducting smart city research and analytics.
 * **National Institute of Technology Karnataka (NITK) Surathkal, India**
   * B-Tech in Information Technology, 2014 - 2018
   * Best Outgoing Student - 2018
