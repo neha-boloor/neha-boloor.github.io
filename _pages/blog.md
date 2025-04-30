@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: true
-nav_order: 1
+title: Blog # Capitalized
+nav: false
+nav_order: 5 # Changed from 1
 pagination:
   enabled: true
   collection: posts

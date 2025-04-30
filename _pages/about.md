@@ -1,34 +1,41 @@
 ---
 layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+title: About
+permalink: /original-about/
+published: false
+subtitle: ML Engineer & Computer Vision Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><i class="fas fa-map-marker-alt"></i> San Francisco Bay Area</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Machine Learning Engineer with expertise in computer vision and autonomous systems. My work focuses on developing innovative solutions for real-world robotics applications, particularly in autonomous navigation and exploration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[Download Resume 📝](/assets/pdf/Neha_Boloor_Resume.pdf){:target="_blank" .download-resume-link}
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Work Experience
+Currently, I work as an ML Engineer at Zoox, focusing on generating driving scenarios for autonomous vehicle testing. Previously, I developed autonomous exploration algorithms as a Research Engineer at Matic Robots and contributed to Oracle Marketing Cloud as a Senior Software Engineer.
+
+[Read more about my work experience →](/experience)
+
+## Education
+I hold a Master's degree in Computer Vision from Carnegie Mellon University (CMU) and a Bachelor's degree in Information Technology from NITK, where I was awarded Best Outgoing Student.
+
+[View my complete educational background →](/education)
+
+## Awards & Recognition
+- JN Tata Scholar 2021
+- State-level Extraordinary Talent award by The Governor of Karnataka
+- Silver Medal in Shankar's International Art Contest
+- Over 650 awards in Painting, Bharatnatyam, and Carnatic Music
+
+[See all awards and recognition →](/awards)

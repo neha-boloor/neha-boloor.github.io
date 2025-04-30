@@ -1,3 +1,5 @@
+@import "timeline";
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -196,6 +198,7 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
+    text-align: center;
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
@@ -241,13 +244,45 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Read more links
+a[href$="/experience"],
+a[href$="/education"],
+a[href$="/awards"],
+a[href$="/news"],
+.view-all-link {
+  font-weight: 600;
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+// Download Resume link
+.download-resume-link {
+  font-weight: 600;
+}
+
 // Navbar customization
 
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-navbar-bg-color);
   opacity: 0.95;
+
+  .navbar-nav .nav-item .nav-link {
+    color: var(--global-navbar-text-color) !important;
+    
+    &:hover {
+      color: var(--global-navbar-hover-color) !important;
+    }
+  }
+
+  .navbar-brand {
+    color: var(--global-navbar-text-color) !important;
+  }
+
+  .navbar-toggler .icon-bar {
+    background-color: var(--global-navbar-text-color) !important;
+  }
 }
 
 .navbar .dropdown-menu {
@@ -401,23 +436,23 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.4rem;
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 1rem;
+        height: 1rem;
+        margin-bottom: 0.3rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
+        width: 1.2rem;
+        height: 1.4rem;
+        margin-bottom: 0.2rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 1.2rem;
+          height: 1.2rem;
         }
       }
 
@@ -425,6 +460,8 @@ ul.task-list input[type="checkbox"] {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
+
+      margin: 0 0.5rem; // Add horizontal margin for spacing
 
       &:hover {
         text-decoration: none;
@@ -473,18 +510,18 @@ ul.task-list input[type="checkbox"] {
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-bg-color);
   font-size: 0.75rem;
 
   .container {
-    color: var(--global-footer-text-color);
+    color: var(--global-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
     text-align: center;
   }
 
   a {
-    color: var(--global-footer-link-color);
+    color: var(--global-text-color);
 
     &:hover {
       color: var(--global-theme-color);

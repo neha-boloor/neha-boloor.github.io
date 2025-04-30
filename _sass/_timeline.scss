@@ -1,0 +1,139 @@
+/* Timeline styling */
+.timeline {
+  position: relative;
+  margin: 40px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Vertical line now between logo and dates */
+.timeline:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 70px; /* Position line to the left of the content, after logos */
+  height: 100%;
+  width: 3px;
+  background: var(--global-divider-color);
+}
+
+.timeline-entry {
+  display: flex;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+/* Milestone marker on timeline */
+.timeline-entry:before {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: var(--global-divider-color);
+  left: 64px; /* Centered on the vertical line */
+  top: 25px; /* Aligned with logo center */
+  z-index: 3; /* Above the vertical line */
+}
+
+.timeline-logo {
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  margin-right: 20px;
+  margin-top: 0; /* Remove top margin for better alignment */
+  flex-shrink: 0;
+  position: relative;
+  z-index: 2; /* Ensure logo appears above the vertical line */
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline-logo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  object-fit: contain;
+}
+
+/* Company-specific logo adjustments */
+.timeline-logo.zoox-logo img,
+.timeline-logo.oracle-logo img {
+  width: 120%;
+  height: 120%;
+}
+
+.timeline-content {
+  flex-grow: 1;
+  padding-left: 20px; /* Space after the vertical line */
+  padding-top: 0; /* Remove top padding for better alignment */
+}
+
+.timeline-year {
+  min-width: 130px; /* Ensure enough space for dates */
+  color: var(--global-text-color-light);
+  padding-left: 12px; /* Reduced spacing between date and vertical line */
+  font-size: 0.9rem;
+  white-space: nowrap; /* Prevent date from breaking into multiple lines */
+  margin-top: 22px; /* Align date with logo center and milestone marker */
+  margin-bottom: 5px;
+  margin-right: 20px; /* Added spacing between date and role title */
+}
+
+.timeline-content h3 {
+  margin-top: 20px; /* Align title with date */
+  margin-bottom: 0.75rem; /* Increased spacing after the role title */
+  font-weight: bold; /* Make role title bold */
+  font-size: 1rem; /* Same font size as the description */
+}
+
+.timeline-content p {
+  margin-bottom: 0.5rem;
+}
+
+.timeline-content a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.timeline-content a:hover {
+  color: var(--global-hover-color);
+  text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  .timeline:before {
+    left: 50px;
+  }
+  
+  .timeline-entry:before {
+    left: 44px;
+    top: 20px;
+    width: 12px;
+    height: 12px;
+  }
+  
+  .timeline-logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+  }
+  
+  .timeline-year {
+    min-width: auto;
+    font-size: 0.8rem;
+    padding-left: 10px;
+    margin-right: 15px;
+    margin-top: 12px;
+  }
+  
+  .timeline-content {
+    padding-left: 15px;
+  }
+  
+  .timeline-content h3 {
+    margin-top: 10px;
+  }
+}
