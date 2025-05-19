@@ -30,7 +30,11 @@ linkedin_username: neha-boloor
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
-# scholar_userid: # add if available
+scholar_userid: QuYejyoAAAAJ
+custom_social:
+  logo: assets/img/HackerNoon Logo (gray).png
+  title: HackerNoon
+  url: https://hackernoon.com/u/neha_boloor
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
