@@ -31,11 +31,3 @@ Currently, I work as an ML Engineer at Zoox, focusing on generating driving scen
 I hold a Master's degree in Computer Vision from Carnegie Mellon University (CMU) and a Bachelor's degree in Information Technology from NITK, where I was awarded Best Outgoing Student.
 
 [View my complete educational background →](/education)
-
-## Awards & Recognition
-- JN Tata Scholar 2021
-- State-level Extraordinary Talent award by The Governor of Karnataka
-- Silver Medal in Shankar's International Art Contest
-- Over 650 awards in Painting, Bharatnatyam, and Carnatic Music
-
-[See all awards and recognition →](/awards)
