@@ -34,7 +34,7 @@ nav_order: 3
     <h2 class="awards-category">Academic Recognition</h2>
     
     <div class="award-item">
-      <p><strong>[2025]</strong> <strong><a href="https://equisystems.github.io/index.html#accepted" target="_blank">Workshop Paper Accepted</a></strong> - "Linear Memory SE(2) Invariant Attention" at RSS 2025 Workshop on Equivariant Systems (Ethan Pronovost, Neha Boloor, Noureldin Hendy, Peter Schleede, Andres Morales, Nicholas Roy)</p>
+      <p><strong>[2025]</strong> <strong><a href="https://equisystems.github.io/index.html#accepted" target="_blank">Best Paper Award</a></strong> - "Linear Memory SE(2) Invariant Attention" at RSS 2025 Workshop on Equivariant Systems (Ethan Pronovost, <strong>Neha Boloor</strong>, Noureldin Hendy, Peter Schleede, Andres Morales, Nicholas Roy)</p>
     </div>
 
     <div class="award-item">
@@ -52,6 +52,7 @@ nav_order: 3
     <div class="award-item">
       <p><strong>Technical Program Committee Member</strong>:
         <ul>
+          <li><a href="https://sites.google.com/view/v3sc-iciap2025/home" target="_blank">V3SC 2025</a> (International Workshop on Video Surveillance Systems in Smart Cities at <a href="https://sites.google.com/view/iciap25" target="_blank">ICIAP 2025</a>)</li>
           <li><a href="https://www.nldl.org/history/previous-program-committees/program-commitee-2024" target="_blank">NLDL 2024 (Top Reviewer)</a> (Northern Lights Deep Learning Conference)</li>
           <li><a href="https://www.acml-conf.org/2023/" target="_blank">ACML 2023</a> (Asian Conference on Machine Learning)</li>
         </ul>
@@ -61,6 +62,7 @@ nav_order: 3
     <div class="award-item">
       <p><strong>Peer Reviewer</strong>:
         <ul>
+
           <li><a href="https://ijetcsit.org/index.php/ijetcsit/about/editorialTeam" target="_blank">IJETCSIT 2025</a> (International Journal of Emerging Technology in Computer Science & Information Technology)</li>
           <li><a href="https://cscw.acm.org/2025/" target="_blank">ACM SIGCHI CSCW 2025</a> (ACM Conference on Computer-Supported Cooperative Work and Social Computing)</li>
           <li><a href="https://www.cgip.org/" target="_blank">CGIP 2025</a> (International Conference on Graphics and Image Processing)</li>
