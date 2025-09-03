@@ -21,7 +21,27 @@ nav_order: 3
     </div>
 
     <div class="award-item">
+      <p><strong>[2025]</strong> <strong><a href="https://stevies-tech.secure-platform.com/site/page/the-awards/2025-stevie-winners" target="_blank">SILVER STEVIE® AWARD</a></strong> - Artificial Intelligence, Employee of the Year</p>
+    </div>
+
+    <div class="award-item">
+      <p><strong>[2025]</strong> <strong>IEEE Senior Membership</strong></p>
+    </div>
+
+    <div class="award-item">
       <p><strong>[2025] Judge, 2025 Globee Awards</strong> - Serving in <a href="https://globeeawards.com/artificial-intelligence/judges/" target="_blank">AI</a>, <a href="https://globeeawards.com/technology/judges/" target="_blank">Technology</a>, and <a href="https://globeeawards.com/disruptor/judges/" target="_blank">Disruptors</a> categories</p>
+    </div>
+
+    <div class="award-item">
+      <p><strong>[2025] Judge, The Sammy - Sales and Marketing Awards</strong> - <a href="https://www.bintelligence.com/judge/neha-boloor" target="_blank">Business Intelligence Group</a></p>
+    </div>
+
+    <div class="award-item">
+      <p><strong>[2025]</strong> <strong>IEEE Senior Member Selection Panel</strong> - Admission and Advancement Committee panel member (August 2025)</p>
+    </div>
+
+    <div class="award-item">
+      <p><strong>[2025]</strong> <strong>Panel Member</strong> - <a href="https://www.ai-infra-summit.com/" target="_blank">AI Infra Summit</a> Virtual Roundtable: "Confidential Computing for Everyone: Unlocking Secure AI Infrastructure" hosted by Confidential Computing Consortium</p>
     </div>
 
     <div class="award-item">
@@ -46,6 +66,10 @@ nav_order: 3
     </div>
 
     <div class="award-item">
+      <p><strong>[2025]</strong> <strong>Editorial Board Member</strong> - <a href="https://www.espjournals.org/IJACT/editorial-board5" target="_blank">ESP International Journal of Advancements in Computational Technology (ESP-IJACT)</a></p>
+    </div>
+
+    <div class="award-item">
       <p><strong>[2025]</strong> <strong><a href="https://www.icscis.net/speaker" target="_blank">Keynote Speaker</a></strong> - IEEE ICSCIS 2025, presenting "Vision Zero: Leveraging AI and Advanced Datasets for Safer, Smarter Roadways in Smart Cities"</p>
     </div>
 
@@ -67,6 +91,8 @@ nav_order: 3
           <li><a href="https://cscw.acm.org/2025/" target="_blank">ACM SIGCHI CSCW 2025</a> (ACM Conference on Computer-Supported Cooperative Work and Social Computing)</li>
           <li><a href="https://www.cgip.org/" target="_blank">CGIP 2025</a> (International Conference on Graphics and Image Processing)</li>
           <li><a href="https://icmhs.umy.ac.id/2025/" target="_blank">ICMHS 2025</a> (International Conference of Medical and Health Sciences)</li>
+          <li><a href="https://ictmod-conference.com/" target="_blank">IEEE ICTMOD 2025</a> (7th IEEE International Conference on Technology Management, Operations and Decisions)</li>
+          <li><a href="https://ispr2025.sciencesconf.org/" target="_blank">ISPR 2025</a> (5th International Conference on Intelligent Systems and Pattern Recognition)</li>
           <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655" target="_blank">IEEE TASL 2024, 2023</a> (IEEE Transactions on Audio, Speech and Language Processing)</li>
 
         </ul>
@@ -92,7 +118,7 @@ nav_order: 3
     <h2 class="awards-category">Media Recognition</h2>
     
     <div class="award-item">
-      <p><strong>[2025]</strong> <strong>Profiled by MSN</strong> - Featured in a <a href="https://www.msn.com/en-us/news/other/teaching-machines-to-see-how-ai-is-transforming-computer-vision-and-deep-learning-research/ar-AA1F8Wvh?ocid=socialshare" target="_blank">dedicated article</a> highlighting my work and impact in AI</p>
+      <p><strong>[2025]</strong> <strong>Profiled by MSN</strong> - Featured in a <a href="https://www.msn.com/en-za/news/other/teaching-machines-to-see-how-ai-is-transforming-computer-vision-and-deep-learning-research/ar-AA1KCWUp" target="_blank">dedicated article</a> highlighting my work and impact in AI</p>
     </div>
 
     <div class="award-item">
