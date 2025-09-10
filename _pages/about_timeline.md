@@ -127,6 +127,7 @@ I am a Machine Learning Engineer currently building Generative AI based solution
     <li>🥈 <strong><a href="https://stevies-tech.secure-platform.com/site/page/the-awards/2025-stevie-winners" target="_blank">SILVER STEVIE® AWARD</a></strong> - Stevie® Awards for Technology Excellence - Artificial Intelligence, Employee of the Year (2025)</li>
     <li>🎤 <strong>Keynote Speaker</strong> - <strong><a href="https://www.icscis.net/speaker" target="_blank">IEEE ICSCIS 2025</a></strong>, presenting "Vision Zero: Leveraging AI and Advanced Datasets for Safer, Smarter Roadways in Smart Cities"</li>
     <li>💬 <strong>Panel Member</strong> - <strong><a href="https://www.ai-infra-summit.com/" target="_blank">AI Infra Summit 2025</a></strong> Virtual Roundtable: "Confidential Computing for Everyone: Unlocking Secure AI Infrastructure" hosted by Confidential Computing Consortium</li>
+    <li>📝 <strong>Featured by Indie Hackers</strong> - Profiled in <a href="https://www.indiehackers.com/post/engineering-intelligence-under-uncertainty-real-time-ml-for-autonomous-systems-a609d34745" target="_blank">"Engineering Intelligence Under Uncertainty: Real-Time ML for Autonomous Systems"</a> highlighting my work in autonomous systems and real-time machine learning.</li>
     <li>📝 <strong>Profiled by MSN</strong> - Featured in a <a href="https://www.msn.com/en-za/news/other/teaching-machines-to-see-how-ai-is-transforming-computer-vision-and-deep-learning-research/ar-AA1KCWUp" target="_blank">MSN dedicated article</a> highlighting my work and impact in AI.</li>
   </ul>
   

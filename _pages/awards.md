@@ -126,6 +126,10 @@ nav_order: 3
     </div>
 
     <div class="award-item">
+      <p><strong>[2025]</strong> <strong>Featured by Indie Hackers</strong> - Profiled in <a href="https://www.indiehackers.com/post/engineering-intelligence-under-uncertainty-real-time-ml-for-autonomous-systems-a609d34745" target="_blank">"Engineering Intelligence Under Uncertainty: Real-Time ML for Autonomous Systems"</a> article highlighting my work in autonomous systems and real-time machine learning.</p>
+    </div>
+
+    <div class="award-item">
       <p><strong></strong> <strong><a href="https://hackernoon.com/u/neha_boloor" target="_blank">Featured Author - HackerNoon</a></strong>, published multiple AI-focused technical articles on generative models, robotics, and perception systems for a global tech audience</p>
     </div>
   </div>
