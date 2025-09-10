@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards
+title: Recognition
 description: A compilation of my professional, academic, volunteering and artistic recognitions.
 nav: true
 nav_order: 3
