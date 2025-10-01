@@ -120,7 +120,7 @@ I am a Machine Learning Engineer currently building Generative AI based solution
 <div class="awards-highlights mt-5">
   <h2 class="section-heading">Awards & Recognition</h2>
   <ul class="awards-list">
-    <li>🎖️ <strong>IEEE Senior Membership</strong> (2025)</li>
+    <li>🎖️ <strong>IEEE Senior Member</strong> (2025)</li>
     <li>📚 <strong><a href="https://equisystems.github.io/index.html#accepted" target="_blank">Best Paper Award</a></strong> - "Linear Memory SE(2) Invariant Attention" at RSS 2025 Workshop on Equivariant Systems: Theory and Applications in State Estimation, Artificial Intelligence and Control (Ethan Pronovost, <strong>Neha Boloor</strong>, Noureldin Hendy, Peter Schleede, Andres Morales, Nicholas Roy)</li>
     <li>🏆 <strong><a href="https://globeeawards.com/achievement/winners/" target="_blank">GOLD GLOBEE AWARDS WINNER</a></strong> - Women of the Year Technology category (2025)</li>
     <li>🏆 <strong><a href="https://titaninnovationawards.com/winner.php" target="_blank">GOLD TITAN INNOVATION AWARDS WINNER</a></strong> - Innovation in Technology - Best Artificial Intelligence Technology Innovation (2025)</li>
@@ -128,6 +128,7 @@ I am a Machine Learning Engineer currently building Generative AI based solution
     <li>🎤 <strong>Keynote Speaker</strong> - <strong><a href="https://www.icscis.net/speaker" target="_blank">IEEE ICSCIS 2025</a></strong>, presenting "Vision Zero: Leveraging AI and Advanced Datasets for Safer, Smarter Roadways in Smart Cities"</li>
     <li>💬 <strong>Panel Member</strong> - <strong><a href="https://www.ai-infra-summit.com/" target="_blank">AI Infra Summit 2025</a></strong> Virtual Roundtable: "Confidential Computing for Everyone: Unlocking Secure AI Infrastructure" hosted by Confidential Computing Consortium</li>
     <li>📝 <strong>Featured by Indie Hackers</strong> - Profiled in <a href="https://www.indiehackers.com/post/engineering-intelligence-under-uncertainty-real-time-ml-for-autonomous-systems-a609d34745" target="_blank">"Engineering Intelligence Under Uncertainty: Real-Time ML for Autonomous Systems"</a> highlighting my work in autonomous systems and real-time machine learning.</li>
+    <li>📝 <strong>Featured by OneIndia</strong> - Profiled in <a href="https://www.oneindia.com/information/how-autonomous-vehicles-ensure-safety-through-simulation-011-7856623.html" target="_blank">"The AV Stack Demystified: How a Self-Driving Car Really Works"</a> highlighting autonomous vehicle safety through simulation.</li>
     <li>📝 <strong>Profiled by MSN</strong> - Featured in a <a href="https://www.msn.com/en-za/news/other/teaching-machines-to-see-how-ai-is-transforming-computer-vision-and-deep-learning-research/ar-AA1KCWUp" target="_blank">MSN dedicated article</a> highlighting my work and impact in AI.</li>
   </ul>
   

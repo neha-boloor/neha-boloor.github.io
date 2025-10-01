@@ -29,11 +29,19 @@ nav_order: 3
     </div>
 
     <div class="award-item">
+      <p><strong>[2025]</strong> <strong><a href="https://www.raptors.dev/" target="_blank">Raptors Fellowship</a></strong> - Recognized as a distinguished expert by Raptors</p>
+    </div>
+
+    <div class="award-item">
       <p><strong>[2025] Judge, 2025 Globee Awards</strong> - Serving in <a href="https://globeeawards.com/artificial-intelligence/judges/" target="_blank">AI</a>, <a href="https://globeeawards.com/technology/judges/" target="_blank">Technology</a>, and <a href="https://globeeawards.com/disruptor/judges/" target="_blank">Disruptors</a> categories</p>
     </div>
 
     <div class="award-item">
       <p><strong>[2025] Judge, The Sammy - Sales and Marketing Awards</strong> - <a href="https://www.bintelligence.com/judge/neha-boloor" target="_blank">Business Intelligence Group</a></p>
+    </div>
+
+    <div class="award-item">
+      <p><strong>[2025] Judge, Stratus Award for Cloud Computing</strong> - <a href="https://www.bintelligence.com/awards/stratus-award-for-cloud-computing" target="_blank">Business Intelligence Group</a></p>
     </div>
 
     <div class="award-item">
@@ -116,7 +124,11 @@ nav_order: 3
   <!-- Media Recognition -->
   <div class="awards-section">
     <h2 class="awards-category">Media Recognition</h2>
-    
+
+    <div class="award-item">
+      <p><strong>[2025]</strong> <strong>Featured by OneIndia</strong> - Profiled in <a href="https://www.oneindia.com/information/how-autonomous-vehicles-ensure-safety-through-simulation-011-7856623.html" target="_blank">"The AV Stack Demystified: How a Self-Driving Car Really Works"</a> highlighting autonomous vehicle safety through simulation.</p>
+    </div>
+
     <div class="award-item">
       <p><strong>[2025]</strong> <strong>Profiled by MSN</strong> - Featured in a <a href="https://www.msn.com/en-za/news/other/teaching-machines-to-see-how-ai-is-transforming-computer-vision-and-deep-learning-research/ar-AA1KCWUp" target="_blank">dedicated article</a> highlighting my work and impact in AI</p>
     </div>
